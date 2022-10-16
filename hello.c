@@ -1,7 +1,7 @@
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main(void){
-    printg("Hello Word!\n");
+    printf("Hello Word!\n");
     return 0;
 }
